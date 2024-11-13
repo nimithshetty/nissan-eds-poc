@@ -5,6 +5,7 @@
     "/content/eds-test/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/eds-poc/"
+    "/content/aem-boilerplate/",
+    "/content/eds-test/"
   ]
 }
