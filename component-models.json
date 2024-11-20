@@ -222,15 +222,54 @@
         "valueType": "string"
       },
       {
-        "component": "button",
-        "name": "primarybutton",
-        "label": "Primary Button"
+        "component": "aem-content",
+        "name": "primarylink",
+        "label": "Primary Link"
+      },
+      {
+        "component": "text",
+        "name": "primarylinkText",
+        "label": "Primary Link Text"
+      },
+      {
+        "component": "text",
+        "name": "primarylinkTitle",
+        "label": "Primary Link Title"
+      },
+      {
+        "component": "aem-content",
+        "name": "secondarylink",
+        "label": "Secondary Link"
+      },
+      {
+        "component": "text",
+        "name": "secondarylinkText",
+        "label": "Secondary Link Text"
+      },
+      {
+        "component": "text",
+        "name": "secondarylinkTitle",
+        "label": "Secondary Link Title"
       },
       {
         "component": "reference",
         "valueType": "string",
-        "name": "thumbnailimage",
-        "label": "Thumbnail Image",
+        "name": "thumbnailimageone",
+        "label": "Thumbnail Image One",
+        "multi": false
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "thumbnailimagetwo",
+        "label": "Thumbnail Image Two",
+        "multi": false
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "thumbnailimagethree",
+        "label": "Thumbnail Image Three",
         "multi": false
       }
     ]
