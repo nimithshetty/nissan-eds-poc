@@ -161,6 +161,7 @@
   },
   {
     "id": "hero",
+    "multi": true,
     "fields": [
       {
         "component": "reference",
