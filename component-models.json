@@ -266,20 +266,10 @@
         "multi": false
       },
       {
-        "component": "text",
-        "name": "eyebrow",
-        "label": "Eyebrow"
-      },
-      {
-        "component": "text",
-        "name": "title",
-        "label": "Title"
-      },
-      {
         "component": "richtext",
-        "name": "Subtitle",
+        "name": "Text",
         "value": "",
-        "label": "subtitle",
+        "label": "text",
         "valueType": "string"
       },
       {
@@ -291,26 +281,6 @@
         "component": "text",
         "name": "linkText",
         "label": "Text"
-      },
-      {
-        "component": "text",
-        "name": "linkTitle",
-        "label": "Title"
-      },
-      {
-        "component": "button",
-        "name": "primarybutton",
-        "label": "Primary Button"
-      },
-      {
-        "component": "button",
-        "name": "secondarybutton",
-        "label": "Secondary Button"
-      },
-      {
-        "component": "text",
-        "name": "linkTitle",
-        "label": "Title"
       },
       {
         "component": "reference",
