@@ -212,7 +212,7 @@
         "valueType": "string",
         "name": "image",
         "label": "Image",
-        "multi": false
+        "multi": true
       },
       {
         "component": "richtext",
@@ -254,23 +254,9 @@
       {
         "component": "reference",
         "valueType": "string",
-        "name": "thumbnailimageone",
-        "label": "Thumbnail Image One",
-        "multi": false
-      },
-      {
-        "component": "reference",
-        "valueType": "string",
-        "name": "thumbnailimagetwo",
-        "label": "Thumbnail Image Two",
-        "multi": false
-      },
-      {
-        "component": "reference",
-        "valueType": "string",
-        "name": "thumbnailimagethree",
-        "label": "Thumbnail Image Three",
-        "multi": false
+        "name": "thumbnailimage",
+        "label": "Thumbnail Image",
+        "multi": true
       }
     ]
   }
