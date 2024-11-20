@@ -210,7 +210,8 @@
       {
         "component": "tab",
         "label": "Tab 1",
-        "name": "tab1"
+        "name": "tab1",
+        "id":"tab1"
       },
       {
         "component": "text-input",
@@ -219,15 +220,38 @@
         "valueType": "string"
       },
       {
+        "component": "reference",
+        "name": "image1",
+        "label": "Image 1",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "name": "imageAlt1",
+        "label": "Alt Text 1"
+      },
+      {
         "component": "tab",
         "label": "Tab 2",
-        "name": "tab2"
+        "name": "tab2",
+        "id":"tab2"
       },
       {
         "component": "text-input",
         "label": "Text 2",
         "name": "text2",
         "valueType": "string"
+      },
+      {
+        "component": "reference",
+        "name": "image2",
+        "label": "Image 2",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "name": "imageAlt2",
+        "label": "Alt Text 2"
       }
     ]
   }  
