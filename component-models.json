@@ -267,9 +267,9 @@
       },
       {
         "component": "richtext",
-        "name": "Text",
+        "name": "Banner Text",
         "value": "",
-        "label": "text",
+        "label": "bannertext",
         "valueType": "string"
       },
       {
