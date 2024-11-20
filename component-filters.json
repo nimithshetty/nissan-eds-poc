@@ -17,13 +17,20 @@
       "columns",
       "fragment",
       "quote",
-      "tab"
+      "tab",
+      "banner"
     ]
   },
   {
     "id": "cards",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "banner",
+    "components": [
+      "slides"
     ]
   },
   {

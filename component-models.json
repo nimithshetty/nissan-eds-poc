@@ -254,5 +254,71 @@
         "label": "Alt Text 2"
       }
     ]
-  }  
+  },
+  {
+    "id": "slides",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "name": "eyebrow",
+        "label": "Eyebrow"
+      },
+      {
+        "component": "text",
+        "name": "title",
+        "label": "Title"
+      },
+      {
+        "component": "richtext",
+        "name": "Subtitle",
+        "value": "",
+        "label": "subtitle",
+        "valueType": "string"
+      },
+      {
+        "component": "aem-content",
+        "name": "link",
+        "label": "Link"
+      },
+      {
+        "component": "text",
+        "name": "linkText",
+        "label": "Text"
+      },
+      {
+        "component": "text",
+        "name": "linkTitle",
+        "label": "Title"
+      },
+      {
+        "component": "button",
+        "name": "primarybutton",
+        "label": "Primary Button"
+      },
+      {
+        "component": "button",
+        "name": "secondarybutton",
+        "label": "Secondary Button"
+      },
+      {
+        "component": "text",
+        "name": "linkTitle",
+        "label": "Title"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "thumbnailimage",
+        "label": "Thumbnail Image",
+        "multi": false
+      }
+    ]
+  }
 ]
